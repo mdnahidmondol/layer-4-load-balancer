@@ -1,0 +1,1 @@
+![Screenshot](nginx-load-balancer.png)
