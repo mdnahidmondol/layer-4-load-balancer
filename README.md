@@ -8,6 +8,7 @@ docker-compose up
 ```
 
 Verify the deployment by navigating to your server address in
+
 your preferred browser.
 
 ```sh
