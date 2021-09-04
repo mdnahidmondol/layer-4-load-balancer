@@ -1,0 +1,15 @@
+version: "3"
+services: 
+    webapp1:
+        build: 
+            context: ./webapp1
+    webapp2:
+        build: 
+            context: ./webapp2
+    
+    proxy:
+        build: 
+            context: ./proxy
+        ports: 
+            - "8080:80"
+
